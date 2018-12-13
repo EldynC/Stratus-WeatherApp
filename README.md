@@ -5,7 +5,7 @@ This is a skeleton of a weather app I created for a project in my CS1200 class a
 Unfortunately, imgur does not capture the best quality when the gif renders
 but here is the functioning prototype of the app.
 
-<img src="https://imgur.com/OnekX2x.gif" width=200><br>
+<img src="https://imgur.com/a/x04KYL3.gif" width=200><br>
 
 
 ## Functional and User Requirements
