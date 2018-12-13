@@ -1,7 +1,9 @@
 # Stratus-WeatherApp
 This is a skeleton of a weather app I created for a project in my CS1200 class at UTD.
 
-### App Walk-though
+The app was made using OpenWeatherAPi, Android Studio, Java, XML, Picasso(for image downloading) and Postman.
+
+## App Walk-though
 Unfortunately, imgur does not capture the best quality when the gif renders
 but here is the functioning prototype of the app.
 
@@ -21,5 +23,11 @@ but here is the functioning prototype of the app.
 - [x] Prevent overload of API calls
 - [x] Display a toast if there is an error
 **User**
+- [x] Enter a zipcode
+- [x] Move from screen to screen
+- [x] See accurate weather data
+- [x] See animations
+
+
 
 
