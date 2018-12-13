@@ -9,7 +9,7 @@ but here is the functioning prototype of the app.
 
 
 ## Functional and User Requirements
-#Functional
+**Functional**
 - [x] Display City Name
 - [x] Display City Weather
 - [x] Display Weather Icons
@@ -20,6 +20,6 @@ but here is the functioning prototype of the app.
 - [x] Show animation between screens
 - [x] Prevent overload of API calls
 - [x] Display a toast if there is an error
-#User
+**User**
 
 
