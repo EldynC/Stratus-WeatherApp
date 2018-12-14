@@ -7,7 +7,7 @@ The app was made using OpenWeatherAPi, Android Studio, Java, XML, Picasso(for im
 Unfortunately, imgur does not capture the best quality when the gif renders
 but here is the functioning prototype of the app.
 
-<img src="https://imgur.com/a/x04KYL3.gif" width=200><br>
+<img src="https://imgur.com/OnekX2x.gif" width=200><br>
 
 
 ## Functional and User Requirements
