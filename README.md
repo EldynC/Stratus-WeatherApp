@@ -3,7 +3,7 @@ This is a skeleton of a weather app I created for a project in my CS1200 class a
 
 The app was made using OpenWeatherAPi, Android Studio, Java, XML, Picasso(for image downloading) and Postman.
 
-## App Walk-though
+## App Walk-Through
 Unfortunately, imgur does not capture the best quality when the gif renders
 but here is the functioning prototype of the app.
 
