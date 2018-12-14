@@ -22,6 +22,7 @@ but here is the functioning prototype of the app.
 - [x] Show animation between screens
 - [x] Prevent overload of API calls
 - [x] Display a toast if there is an error
+
 **User**
 - [x] Enter a zipcode
 - [x] Move from screen to screen
